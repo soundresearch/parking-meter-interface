@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/parking-meter-neutral/static/css/main.22389171.css",
+    "main.js": "/parking-meter-neutral/static/js/main.f5ba0a9c.js",
+    "static/js/885.4d9e9c4b.chunk.js": "/parking-meter-neutral/static/js/885.4d9e9c4b.chunk.js",
+    "static/media/bg.png": "/parking-meter-neutral/static/media/bg.019ce690730b3ad8dd15.png",
+    "static/media/notification_decorative-02.wav": "/parking-meter-neutral/static/media/notification_decorative-02.9739eb741845c22bc913.wav",
+    "static/media/card.png": "/parking-meter-neutral/static/media/card.9c0b7a42dde736b5fcc9.png",
+    "static/media/notification_simple-02.wav": "/parking-meter-neutral/static/media/notification_simple-02.ed804bd16208f38a5b12.wav",
+    "static/media/hero_simple-celebration-03.wav": "/parking-meter-neutral/static/media/hero_simple-celebration-03.ee4b63a104a21221cb4e.wav",
+    "static/media/navigation_forward-selection.wav": "/parking-meter-neutral/static/media/navigation_forward-selection.10a4829520e343fa02b2.wav",
+    "static/media/pm-cr.png": "/parking-meter-neutral/static/media/pm-cr.eac2a568e03d9c44523b.png",
+    "static/media/pm.png": "/parking-meter-neutral/static/media/pm.6d946a6b1151b3cc4a2f.png",
+    "static/media/navigation_backward-selection-minimal.wav": "/parking-meter-neutral/static/media/navigation_backward-selection-minimal.32ca67f49aff6b8c7b41.wav",
+    "index.html": "/parking-meter-neutral/index.html",
+    "main.22389171.css.map": "/parking-meter-neutral/static/css/main.22389171.css.map",
+    "main.f5ba0a9c.js.map": "/parking-meter-neutral/static/js/main.f5ba0a9c.js.map",
+    "885.4d9e9c4b.chunk.js.map": "/parking-meter-neutral/static/js/885.4d9e9c4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22389171.css",
+    "static/js/main.f5ba0a9c.js"
+  ]
+}
